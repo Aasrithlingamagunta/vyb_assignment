@@ -98,3 +98,23 @@ Example API Input
 }
 
 Check the test_outputs folder to see the outputs we have checked!!
+
+## Future Enhancements
+
+Although the current version fulfills the basic requirements, several improvements can be made in future iterations:
+
+1. **Ingredient Synonym Dictionary:**  
+   Build a custom dictionary to better handle common ingredient name variations (e.g., "paneer cubes" vs "paneer").
+
+2. **Quantity Interpretation Improvements:**  
+   Handle complex quantity phrases like "half a glass", "a handful of spinach", or "two large onions" more intelligently.
+
+3. **Recipe Scraper Integration:**  
+   Automatically fetch generic recipes online based on dish name using APIs instead of manual ingredient entry.
+
+4. **Dynamic Dish Classification:**  
+   Implement lightweight ML models to classify dish types (Wet Sabzi, Dal, Non-Veg Curry) instead of relying only on fuzzy string matching.
+
+5. **Deployment of API:**  
+   Host the FastAPI app publicly using services like Render, Railway, or AWS to allow easy access without local setup.
+
