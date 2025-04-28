@@ -1,0 +1,32 @@
+{
+    "estimated_nutrition_per_standard_serving": {
+        "calories": 446.78,
+        "protein": 19.97,
+        "carbs": 74.71,
+        "fat": 9.35,
+        "fiber": 15.81
+    },
+    "dish_type": "Dals",
+    "ingredients_used": [
+        {
+            "ingredient": "toor dal",
+            "quantity": "0.5 cup"
+        },
+        {
+            "ingredient": "onion chopped",
+            "quantity": "0.5 cup"
+        },
+        {
+            "ingredient": "tomato chopped",
+            "quantity": "0.5 cup"
+        },
+        {
+            "ingredient": "ghee",
+            "quantity": "1 tablespoon"
+        },
+        {
+            "ingredient": "cumin seeds",
+            "quantity": "1 teaspoon"
+        }
+    ]
+}

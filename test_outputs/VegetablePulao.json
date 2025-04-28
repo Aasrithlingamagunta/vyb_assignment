@@ -1,0 +1,32 @@
+{
+    "estimated_nutrition_per_standard_serving": {
+        "calories": 330.01,
+        "protein": 13.76,
+        "carbs": 68.44,
+        "fat": 6.69,
+        "fiber": 7.53
+    },
+    "dish_type": "Wet Sabzi",
+    "ingredients_used": [
+        {
+            "ingredient": "rice raw",
+            "quantity": "1 cup"
+        },
+        {
+            "ingredient": "mixed vegetables",
+            "quantity": "1 cup"
+        },
+        {
+            "ingredient": "oil",
+            "quantity": "2 tablespoons"
+        },
+        {
+            "ingredient": "onion chopped",
+            "quantity": "0.5 cup"
+        },
+        {
+            "ingredient": "spices",
+            "quantity": "1 teaspoon"
+        }
+    ]
+}

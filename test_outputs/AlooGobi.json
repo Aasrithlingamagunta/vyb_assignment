@@ -1,0 +1,32 @@
+{
+    "estimated_nutrition_per_standard_serving": {
+        "calories": 219.63,
+        "protein": 7.43,
+        "carbs": 32.69,
+        "fat": 7.34,
+        "fiber": 6.7
+    },
+    "dish_type": "Wet Sabzi",
+    "ingredients_used": [
+        {
+            "ingredient": "potato cubes",
+            "quantity": "1 cup"
+        },
+        {
+            "ingredient": "cauliflower florets",
+            "quantity": "1 cup"
+        },
+        {
+            "ingredient": "onion chopped",
+            "quantity": "0.5 cup"
+        },
+        {
+            "ingredient": "tomato chopped",
+            "quantity": "0.5 cup"
+        },
+        {
+            "ingredient": "oil",
+            "quantity": "2 tablespoons"
+        }
+    ]
+}

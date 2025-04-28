@@ -1,0 +1,32 @@
+{
+    "estimated_nutrition_per_standard_serving": {
+        "calories": 283.69,
+        "protein": 11.11,
+        "carbs": 43.86,
+        "fat": 8.38,
+        "fiber": 10.09
+    },
+    "dish_type": "Wet Sabzi",
+    "ingredients_used": [
+        {
+            "ingredient": "paneer cubes",
+            "quantity": "0.75 cup cubes"
+        },
+        {
+            "ingredient": "butter",
+            "quantity": "2 teaspoons"
+        },
+        {
+            "ingredient": "tomato puree",
+            "quantity": "0.5 cup"
+        },
+        {
+            "ingredient": "onion chopped",
+            "quantity": "0.5 cup"
+        },
+        {
+            "ingredient": "cream",
+            "quantity": "1 tablespoon"
+        }
+    ]
+}
