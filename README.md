@@ -62,8 +62,9 @@ nutrition_estimator/ ├── data/ │ └── Assignment Inputs.xlsx ├─
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Aasrithlingamagunta/vyb_assignment.git
+cd vyb_assignment
+
 2. Install dependencies
 
 pip install pandas fastapi uvicorn rapidfuzz openpyxl
