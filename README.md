@@ -1,5 +1,5 @@
 # VYB Assignment: Nutrition Estimator for Indian Dishes
-
+!!!DONT MISS TO CHECK FUTURE ENHANCEMENTS IN THE LAST!!!
 ## Objective
 
 The objective of this project is to develop a system that estimates the nutritional values of a home-cooked Indian dish based on its ingredients. The system must handle real-world messy inputs, make intelligent assumptions, and work reliably both via a Command Line Interface (CLI) and a Local API.
@@ -97,6 +97,8 @@ Example API Input
   ]
 }
 
+
+```
 Check the test_outputs folder to see the outputs we have checked!!
 
 ## Future Enhancements
@@ -116,5 +118,5 @@ Although the current version fulfills the basic requirements, several improvemen
    Implement lightweight ML models to classify dish types (Wet Sabzi, Dal, Non-Veg Curry) instead of relying only on fuzzy string matching.
 
 5. **Deployment of API:**  
-   Host the FastAPI app publicly using services like Render, Railway, or AWS to allow easy access without local setup.
+   Host the FastAPI app publicly using services like Render, Railway, or AWS to allow easy access without local setup
 
